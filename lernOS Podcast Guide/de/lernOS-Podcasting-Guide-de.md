@@ -235,6 +235,12 @@ Garageband ist eine Software für die Aufnahme und Bearbeitung von Musik und Pod
 
 Garageband läuft nur unter Mac OS X. Es erscheint jetzt eine iPad-Version, von der noch nicht klar ist, wie gut sie sich über Podcast-Aufnahmen eignet.
 
+### Reaper mit Ultraschall
+Reaper ist ebenfalls eine Software für Musikbearbeitung (DAW, Digital Audio Workstation) und zeichnet sich durch extrem hohe Anpassbarkeit der Software aus. Sie erlaubt nicht nur die Veränderung der grafischen Oberfläche, sondern auch des Funktionsumfanges. Diese Eigenschaft führe dazu, dass Ralf Stockmann ca. 2016 damit angefangen hat diese Software an die Bedürfnisse der Podcaster anzupassen: Ultraschall wurde geboren. Zur Zeit gibt es die Software in der Version 3.1 und wird von vielen Podcastern in Deutschland eingesetzt.
+
+Reaper kostet für Privatanwender 60 US Dollar und läuft mit Ultraschall (kostenlos) unter Mac OS und Windows.
+
+
 ## Fazit
 Selber Radio zu machen, ist einfach. Man sollte sich nur vorher überlegen, mit wie vielen Leuten man in welcher Situation sprechen will, welche Anforderung an Qualität und Mobilität der Technik stellt und vor allem, wie man die Gesprächsführung gestalten will. Die ersten Versuche werden sicherlich katastrophal ausfallen, aber das ändert sich schnell. Jeder Podcaster blickt mit einem latenten Unwohlsein auf seine erste Sendung, nicht selten auch die Zweite. Aber von da ab gewinnt man schnell an Erfahrung und Routine. Wer dranbleibt wird schnell zu passablen und befriedigenden Ergebnissen kommen.
 
