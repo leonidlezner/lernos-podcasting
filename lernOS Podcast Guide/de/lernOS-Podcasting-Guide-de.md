@@ -22,7 +22,22 @@ Um diese Fragen gut beantworten zu können und basierend auf den Antworten die r
 Zum Verständnis der weiteren Diskussion der möglichen Podcast-Formate und den Anforderungen für deren Aufnahme, ist es zunächst erforderlich, ein paar Grundlagen näher zu betrachten, deren Verständnis vielleicht nicht immer vollständig erforderlich, aber zumindest sinnvoll und hilfreich ist.
 
 ## Das Format
-Das Format der Sendung ist die primäre Design-Entscheidung eines Podcasts. Wieviele Leute nehmen teil? Wer übernimmt die Rolle eines Moderators? Wie kann, soll und darf eine Sendung sein? Alle diese Parameter haben Einfluss auf die Technik und keine Technikkonstellation ist für jede Situation geeignet. Daher ist es sinnvoll, vor Beginn darüber nachzudenken, in welche Richtungen sich der Podcast entwickeln sollte und könnte. Im Folgenden eine Beschreibung typischer Podcast-Formate.
+Das Format der Sendung ist die primäre Design-Entscheidung eines Podcasts. Wieviele Leute nehmen teil? Wer übernimmt die Rolle eines Moderators? Was ist die optimale Länge der Sendung? Wie kann, soll und darf eine Sendung sein? Alle diese Parameter haben Einfluss auf die Technik und keine Technikkonstellation ist für jede Situation geeignet. Daher ist es sinnvoll, vor Beginn darüber nachzudenken, in welche Richtungen sich der Podcast entwickeln sollte und könnte. 
+
+Bevor man sich für ein bestimmtes Format entscheidet, sollten die Rahmenbedingungen und die Zielgruppe des Podcasts klar sein. Denn beide haben eine Auswirkung auf das Konsumverhalten der Aufnahme. Es kann sein, dass die Zielgruppe einen Interview-Podcast mit mehreren Gästen von der Länge her nicht annimmt, weil sie durchschnittlich keine 40 Minuten Zeit fürs Hören der Aufnahme hat.
+
+Zu den Rahmenbedingungen des Podcastkonsums gehören u.a. folgende Fragen und Beispiele:
+
+* In welchen Situationen wird der Podcast gehört: Bei der Arbeit, Freizeit, Sport, im Auto oder ÖPNV
+* Zu welchem Zweck wird der Podcast gehört: Unterhaltung, Weiterbildung, Ablenkung
+* Welche Dauer einer Folge ist akzeptabel: 10, 20 Minuten oder gleich zwei Stunden
+* Wie wird der Podcast abgespielt: Podcatcher App, Browser, Autoradio
+* Kann der Podcast offline gehört werden oder nur als Stream?
+* Wer ist das Zielpublikum: Breite Masse oder spezielle Zielgruppe?
+* Welche Sprache spielt das Zielpublikum: Nur Deutsch oder auch andere Sprachen?
+* Welche Vorkenntnisse hat das Zielpublikum?
+
+Im Folgenden eine Beschreibung typischer Podcast-Formate.
 
 ### Der Solo-Podcast (stationär)
 In einem Solo Podcast spricht nur eine Person. Hier wird typischerweise eine monologische Gesprächsführung gewählt, auch wenn Mischformen denkbar sind. So könnte ein Moderator z.B. auch vorher aufgezeichnetes Audio Feedback von Hörern oder anderes Sprachmaterial oder auch Musik einspielen.
